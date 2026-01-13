@@ -1,0 +1,6 @@
+# Dependencies
+connexion
+mysql-connector-python
+
+# Optional dependencies (if Flask is needed as a standalone dependency)
+Flask
